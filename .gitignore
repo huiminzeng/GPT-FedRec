@@ -1,0 +1,7 @@
+**/__pycache__
+**/data
+**/experiments
+**/llm_results
+**/.cache
+*.sh
+*.DS_Store
