@@ -74,7 +74,7 @@ For our running environment see requirements.txt
       --dataset_code            # select from 'beauty', 'games', 'toys_new', 'auto', 'ml-100k'
       --num_clients             # number of federated clients
       --num_samples             # number of training users per client
-      --lambda_ensemble         # the trade-off factor when computing the hybrid retrival score (Equation 4 in our paper)
+      --lambda_ensemble         # the trade-off factor when computing the hybrid retrival score (Equation 6 in our paper)
       ```   
     - After executing the script, the generated texts will be saved to a new folder `llm_results`.
 
