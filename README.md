@@ -1,6 +1,6 @@
 # Federated Recommendation via Hybrid Retrieval Augmented Generation
 
-This repository is the PyTorch impelementation for the paper "Federated Recommendation via Hybrid Retrieval Augmented Generation".
+This repository is the PyTorch impelementation for the [paper][https://arxiv.org/abs/2403.04256] "Federated Recommendation via Hybrid Retrieval Augmented Generation".
 
 <img src=media/fig1.jpg width=400>
 
